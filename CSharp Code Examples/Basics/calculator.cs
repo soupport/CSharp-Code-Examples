@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-// Author: Lorna Foster
 
 namespace CSharp_Code_Examples
 {
