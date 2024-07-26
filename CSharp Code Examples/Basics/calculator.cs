@@ -13,7 +13,7 @@ namespace CSharp_Code_Examples
         public static void run()
         {
             
-            Console.WriteLine("Hello testest!");
+            Console.WriteLine("TEST!");
             
         }
     }
