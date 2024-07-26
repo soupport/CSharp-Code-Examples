@@ -3,5 +3,4 @@
 
 
 //Static class methods, so the class doesn't have to be instantiated
-// HelloLincoln.run(); 
- Helloworld.run(); 
+    HelloLincoln.run(); 
