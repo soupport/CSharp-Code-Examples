@@ -1,5 +1,5 @@
 ﻿//C# Code Examples
-//Contributors: Mark Doughty, 
+//Contributors: Mark Doughty, Lorna Foster
 
 
 //Static class methods, so the class doesn't have to be instantiated
